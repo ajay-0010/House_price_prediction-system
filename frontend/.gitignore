@@ -24,3 +24,4 @@ dist-ssr
 
 bun.lockb
 node_modules/
+README.md export-ignore
