@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+flask
+flask-cors
+scikit-learn==1.7.2
+pandas
+joblib
+numpy
