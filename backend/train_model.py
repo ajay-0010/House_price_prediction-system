@@ -7,7 +7,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 import joblib
 import os
 
-# Create model directory if it doesn't exist
+
 if not os.path.exists('model'):
     os.makedirs('model')
 
